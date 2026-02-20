@@ -26,8 +26,8 @@ The discussion originated from interest in dynamic, interactive 3D visualization
 
 3. **Theoretical Foundations**  
    - State of the Art:  
-     - **ACT-R + SGOMS modeling of novice/expert Python problem-solving, goal decomposition, error prediction  
-     - **Bayesian rational models of function learning, hint-based generalization, priors on code patterns  
+     - ACT-R + SGOMS modeling of novice/expert Python problem-solving, goal decomposition, error prediction  
+     - Bayesian rational models of function learning, hint-based generalization, priors on code patterns  
    
 4. **Model Structure**  
    - **Architecture**: ACT-R modules + Bayesian subsymbolic layers  
